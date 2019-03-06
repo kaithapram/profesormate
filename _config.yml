@@ -1,0 +1,32 @@
+title: "Miprofeclases" clases particulares
+email: reixxer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Una pagina para ayudarte en esas clases que te cuestan aprender.
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://keralahost.in/profesormate" # the base hostname & protocol for your site
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: "Miprofeclases" clases particulares
+
+date: 2019-03-06 21:49:17 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/profesormate/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+# Details for the RSS feed generator
+author:        profesormate
