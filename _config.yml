@@ -1,4 +1,5 @@
-title: "Miprofeclases" clases particulares
+title: >
+    "Miprofeclases" clases particulares
 email: reixxer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Una pagina para ayudarte en esas clases que te cuestan aprender.
@@ -9,7 +10,8 @@ google_adsense: Your-adsense-code
 
 markdown: kramdown
 
-name: "Miprofeclases" clases particulares
+name: >
+    "Miprofeclases" clases particulares
 
 date: 2019-03-06 21:49:17 +0000
 permalink: /:year/:month/:day/:title
