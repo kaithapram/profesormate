@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "miprofeclases" clases particulares
+title: >
+    "miprofeclases" clases particulares
 date:   2019-03-06 18:43:05 +0000
 ---
 
